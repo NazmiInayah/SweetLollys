@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1015713794299",
+    "project_id": "sweetlollys-8621a",
+    "storage_bucket": "sweetlollys-8621a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015713794299:android:837f0d5146eab53637885e",
+        "android_client_info": {
+          "package_name": "com.example.kelompok4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015713794299-hbdsh4d895d02tcdgvuluk929dsdv2h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelompok4",
+            "certificate_hash": "ae3be3bd562ae73fdc949bbcc879c7a75b699770"
+          }
+        },
+        {
+          "client_id": "1015713794299-phesfq6hmpnjdu926hgim2psum2f6497.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsS1Q0zgzZG9bkdMVSRZgnWCJ4SHisq6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015713794299-phesfq6hmpnjdu926hgim2psum2f6497.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015713794299:android:66520366af40997a37885e",
+        "android_client_info": {
+          "package_name": "com.example.sweetlollys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015713794299-phesfq6hmpnjdu926hgim2psum2f6497.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsS1Q0zgzZG9bkdMVSRZgnWCJ4SHisq6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015713794299-phesfq6hmpnjdu926hgim2psum2f6497.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

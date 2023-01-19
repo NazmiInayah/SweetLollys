@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SweetLollys</string>
+    <string name="desc">"I was a bear who loved listening to songs to play and dance. Lets get to the beat and dance together!"</string>
+    <string name="welcome_string">Welcome</string>
+    <string name="hello">"HELLO, IM TEDDOS"</string>
+    <string name="hi">HI</string>
+    <string name="hello_teddos">HELLO, I\'M TEDDOS</string>
+    <string name="story">\'I was a bear who loved listening to songs to play and dance. Let\'s get to the beat and dance together!\'</string>
+    <string name="tv_audio_name">Audio Name</string>
+    <string name="desc_app_logo">App Logo</string>
+    <string name="desc_btn_next">Go to next song</string>
+    <string name="tv_audio_position">00:00</string>
+    <string name="tv_audio_duration">05:00</string>
+    <string name="desc_btn_prev">Go to previous song</string>
+    <string name="desc_btn_play">Play this song</string>
+    <string name="desc_btn_pause">Pause this song</string>
+    <string name="desc_btn_stop">Stop music</string>
+</resources>

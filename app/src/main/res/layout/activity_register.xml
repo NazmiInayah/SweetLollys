@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/bg_login">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="#9933FF"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.03"
+        android:paddingTop="200dp"/>
+
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Email"
+        android:background="@drawable/klik"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:background="@drawable/klik"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/passwordconf"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Confirm password"
+        android:inputType="textPassword"
+        android:background="@drawable/klik"
+        android:textColor="#0d6e6a"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"/>
+
+    <CheckBox
+        android:id="@+id/ShowPass"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="Show Password"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"/>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:text="Register"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already have an account? Sign In"
+        android:textStyle="bold"
+        android:textColor="#9933FF"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        style="@style/Widget.AppCompat.Button.Borderless"/>
+
+</LinearLayout>
